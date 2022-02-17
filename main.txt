@@ -1,0 +1,3 @@
+// este es el cuerpo principakl de mi aplicacion
+
+el main
