@@ -1,3 +1,5 @@
 // este es el cuerpo principakl de mi aplicacion. ALGO MAS
 
 el main
+
+instrucciones agregadas directamente en el repositorio remoto
